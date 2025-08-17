@@ -1,4 +1,4 @@
-Project Overview
+Project Overview:
 
 A Streamlit-based web application for detecting fraudulent UPI transactions.
 
@@ -8,7 +8,7 @@ Accepts manual input or CSV file upload for batch prediction.
 
 Allows the user to download predictions as a CSV after processing.
 
-💡 Features
+💡 Features:
 
 🔍 Predicts whether a UPI transaction is fraudulent or not.
 
@@ -36,7 +36,7 @@ Transaction type, Payment gateway, State, Merchant category
 
 Model is loaded from a pickle file: UPI Fraud Detection Final.pkl
 
-🛠 Tech Stack
+🛠 Tech Stack:
 
 Python
 
